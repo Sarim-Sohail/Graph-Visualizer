@@ -1,0 +1,31 @@
+{
+  "name": "algoproject",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "form-data": "^4.0.0",
+    "formidable": "^2.0.1",
+    "multer": "^1.4.4"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunderAli416/projectTests.git"
+  },
+  "author": "Sunder Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunderAli416/projectTests/issues"
+  },
+  "homepage": "https://github.com/SunderAli416/projectTests#readme",
+  "description": ""
+}
